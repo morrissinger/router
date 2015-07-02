@@ -1,0 +1,8 @@
+{
+  "name": "router",
+  "version": "1.4.1",
+  "main": "./dist/router.es5.js",
+  "ignore": [],
+  "dependencies": {
+  }
+}
